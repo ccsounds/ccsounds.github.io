@@ -1,6 +1,7 @@
 html {
-    font-size: 10px;
-    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    font-family: 'Roboto Mono', monospace; /* from https://fonts.google.com/ */
+    background-color: #00539F;
 }
 
 body {
