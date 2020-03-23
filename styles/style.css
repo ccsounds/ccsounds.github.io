@@ -4,6 +4,10 @@ html {
     background-color: #00539F;
 }
 
+p {
+    background-image: url("images/image.jpg");
+}
+
 body {
     text-align: center;
     width: 600px;
